@@ -54,7 +54,7 @@ bash
 2. ![https://github.com/Anjana-0519/cuberoot/commit/657b46df22b397df719fcfe48c2a6de63be80df4#diff-77bd25083af8d2c71cbc232b104fd4295bfff037bd5c09fd02c3e162d6144f86](#)  
    [Caption explaining Screenshot 2]  
 
-3. ![](#)  
+3. ![https://github.com/Anjana-0519/cuberoot/commit/657b46df22b397df719fcfe48c2a6de63be80df4#diff-77bd25083af8d2c71cbc232b104fd4295bfff037bd5c09fd02c3e162d6144f86](#)  
    [Caption explaining Screenshot 3]  
 
 #### Diagrams:
