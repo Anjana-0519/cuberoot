@@ -55,14 +55,11 @@ bash
 
 3. ![scrnpiggy3](https://github.com/user-attachments/assets/a1305dcf-c0b5-4f9b-b301-a31068dd49c4)
 
-#### Diagrams:
-- ![Workflow](#)  
-  [Caption explaining workflow or architecture diagram]  
 
 
 ## Project Demo
 ### Video:
-[https://github.com/Anjana-0519/cuberoot/blob/main/piggy-bank-logo-template_59362-97.avif](#)  
+[https://github.com/user-attachments/assets/20921deb-3e5a-470c-ace6-1985fdb6c87e](#)  
 Explain what the video demonstrates.
 
 
