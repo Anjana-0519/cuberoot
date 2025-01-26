@@ -34,8 +34,6 @@ the money to acheive his goal.
 ### Technologies/Components Used:
 #### For Software:
 - *Languages:*Html,css,java script
-- *Frameworks:* [List frameworks used]
-- *Libraries:* [List libraries used]
 - *Tools:*vs code
 
 ---
@@ -71,40 +69,18 @@ bash
   [Caption explaining workflow or architecture diagram]  
 
 
-
-#### Build Photos:
-1. ![Team](#)  
-   Photo of the team working on the project.  
-2. ![Components](#)  
-   List out all components shown.  
-3. ![Build](#)  
-   Photos of the build process with explanations.  
-4. ![Final](#)  
-   Photo of the final product with explanation.  
-
----
-
 ## Project Demo
 ### Video:
-[Watch the demo video here](#)  
+["C:\Users\ansab\Downloads\piggybank.mp4](#)  
 Explain what the video demonstrates.
 
-### Additional Demos:
-[Add any extra demo materials or links.]
 
----
 
 ## Team Contributions
-- *[Name 1]:* [Specific contributions made by this member.]
-- *[Name 2]:* [Specific contributions made by this member.]
-- *[Name 3]:* [Specific contributions made by this member.]
+- *[Anjana M]:* [HTML]
+- *[Ansaba shirin k]:* [CSS]
+- *[Arshida PR]:* [JAVA SCRIPT]
 
----
-
-## License
-[Specify the license here, if applicable.]
-
----
 
 ## Contact
-For more information, contact [Team Name] at [your contact email or link].
+For more information, contact [CUBEROOT] at [anjanam05clt@gamil.com].
