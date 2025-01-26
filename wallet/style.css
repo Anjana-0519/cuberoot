@@ -1,0 +1,103 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  .page {
+    display: none;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page.active {
+    display: block;
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #007bff;
+  }
+  
+  form input, form button {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 1rem;
+  }
+  
+  form button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .goal-sections {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .goal-box {
+    width: 40%;
+    padding: 20px;
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .goal-box:hover {
+    background-color: #dee2e6;
+  }
+  
+  #home-page {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #goal-info, #goal-actions {
+    margin-top: 20px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
