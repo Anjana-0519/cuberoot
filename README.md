@@ -48,14 +48,12 @@ bash
 ## Project Documentation
 ### For Software:
 #### Screenshots:
-1. ![https://github.com/Anjana-0519/cuberoot/commit/657b46df22b397df719fcfe48c2a6de63be80df4#diff-77bd25083af8d2c71cbc232b104fd4295bfff037bd5c09fd02c3e162d6144f86](#)  
-   [Caption explaining Screenshot 1]  
+1. ![scrnpiggy1](https://github.com/user-attachments/assets/7d96ffc7-7980-4e8f-9c6a-5fc9d6376988)
 
-2. ![https://github.com/Anjana-0519/cuberoot/commit/657b46df22b397df719fcfe48c2a6de63be80df4#diff-77bd25083af8d2c71cbc232b104fd4295bfff037bd5c09fd02c3e162d6144f86](#)  
-   [Caption explaining Screenshot 2]  
 
-3. ![https://github.com/Anjana-0519/cuberoot/commit/657b46df22b397df719fcfe48c2a6de63be80df4#diff-77bd25083af8d2c71cbc232b104fd4295bfff037bd5c09fd02c3e162d6144f86](#)  
-   [Caption explaining Screenshot 3]  
+2. ![scrnpiggy2](https://github.com/user-attachments/assets/01ced33e-814f-4d4e-88b6-1fb502c43fae)
+
+3. ![scrnpiggy3](https://github.com/user-attachments/assets/a1305dcf-c0b5-4f9b-b301-a31068dd49c4)
 
 #### Diagrams:
 - ![Workflow](#)  
