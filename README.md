@@ -42,13 +42,6 @@ the money to acheive his goal.
 ### For Software:
 #### Installation:
 bash
-# Add installation commands here
-
-
-#### Run:
-bash
-# Add run commands here
-
 
 ---
 
