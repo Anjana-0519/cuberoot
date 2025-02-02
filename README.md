@@ -71,4 +71,4 @@ Explain what the video demonstrates.
 
 
 ## Contact
-For more information, contact [CUBEROOT] at [anjanam05clt@gamil.com,ansabakizhisseri@gamil.com,arshidapr@gamil.com].
+For more information, contact [CUBEROOT] at [anjanam05clt@gamil.com,ansabakizhisseri@gamil.com,arshidapr2002@gamil.com].
